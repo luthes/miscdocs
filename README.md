@@ -29,6 +29,7 @@ On my laptop at home, I clond into a suckless folder to keep everything in one s
 `git clone git://dwm.suckless.org/ suckless/dwm`
 
 
+[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
 ### DWM Status ###
 
 Clone from Suckless git repo, and and then use make to install.
@@ -46,6 +47,7 @@ And then to start:
 `xsetroot --name "$(dwmstatus)`
 
 
+[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
 ### barM.c ###
 
 barM.c is a better config of DWM Status. 
@@ -65,17 +67,22 @@ Same as above, run with
 
 `xsetroot -name "$(barM)"`
 
+[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
 #### Bash Script to start on Boot ####
 
 Soon (tm).
 
 
+[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
 ## Salt Stack ##
 
 
+[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
 ## TerraForm ##
 
 
+[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
 ## AWS CLI ##
 
 
+[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
