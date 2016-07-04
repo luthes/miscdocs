@@ -1,4 +1,4 @@
-# Misc Walkthroughs  #
+# Quick Reference  #
 
 ## Internal Links ##
 
@@ -9,6 +9,10 @@
 [TerraForm](https://github.com/luthes/miscdocs#terraform)
 
 [AWS CLI](https://github.com/luthes/miscdocs#aws-cli)
+
+[VIM](https://github.com/luthes/miscdocs#aws-cli)
+
+[tmux](https://github.com/luthes/miscdocs#aws-cli)
 
 
 ## External Links ##
@@ -22,14 +26,15 @@ Just some stuff that I want to remember. Shortcuts for stuff, walkthroughs, guid
 
 ## DWM ##
 
-DWM on Ubuntu is fairly easy. Install and compile DWM from source first, then apt-get install. Installing from the Repos after compiling form source sets some config stuff so that I don't have to. Makes life easier.
+DWM on Ubuntu is fairly easy. Install and compile DWM from source first, then `apt-get install dwm`. Installing from the Repos after compiling form source sets some config stuff so that I don't have to. Makes life easier.
 
 On my laptop at home, I clond into a suckless folder to keep everything in one spot.
 
 `git clone git://dwm.suckless.org/ suckless/dwm`
 
 
-[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
+
+
 ### DWM Status ###
 
 Clone from Suckless git repo, and and then use make to install.
@@ -47,7 +52,6 @@ And then to start:
 `xsetroot --name "$(dwmstatus)`
 
 
-[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
 ### barM.c ###
 
 barM.c is a better config of DWM Status. 
@@ -67,26 +71,26 @@ Same as above, run with
 
 `xsetroot -name "$(barM)"`
 
-[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
+
 #### Bash Script to start on Boot ####
 
 Soon (tm).
 
+[top](https://github.com/luthes/miscdocs#quick-reference)
 
-[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
 ## Salt Stack ##
 
+[top](https://github.com/luthes/miscdocs#quick-reference)
 
-[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
 ## TerraForm ##
 
+[top](https://github.com/luthes/miscdocs#quick-reference)
 
-[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
 ## AWS CLI ##
 
 
-[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
 
+[top](https://github.com/luthes/miscdocs#quick-reference)
 
 ## VIM ##
 
@@ -96,7 +100,9 @@ Soon (tm).
 Additionally, `vimtutor` should be installed with vim. Just run in a terminal.
 
 
-[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
+
+[top](https://github.com/luthes/miscdocs#quick-reference)
+
 ## tmux ## 
 
 [tmux Primer by Daniel Miessler](https://danielmiessler.com/study/tmux)
@@ -107,5 +113,5 @@ Good tutorial, covers the basics, some helpful hotkey changes as well.
 
 
 
-[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
+[top](https://github.com/luthes/miscdocs#quick-reference)
 
