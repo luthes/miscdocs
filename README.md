@@ -3,14 +3,18 @@
 ## Internal Links ##
 
 [DWM](https://github.com/luthes/miscdocs/README.md#dwm)
+
 [Salt](https://github.com/luthes/miscdocs/README.md#SaltStack)
+
 [TerraForm](https://github.com/luthes/miscdocs/README.md#Terraform)
+
 [AWS CLI](https://github.com/luthes/miscdocs/README.md#AWSCLI)
 
 
 ## External Links ##
 
 [SaltStack Docs](https://docs.saltstack.com/en/getstarted)
+
 [TerraForm Docs](https://wwww.terraform.io/intro)
 
 
@@ -64,3 +68,14 @@ Same as above, run with
 ## Bash Script to start on Boot ##
 
 Soon (tm).
+
+
+## Salt Stack ##
+
+
+## TerraForm ##
+
+
+## AWS CLI ##
+
+
