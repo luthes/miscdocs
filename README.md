@@ -1,5 +1,19 @@
 # Misc Walkthroughs  #
 
+## Internal Links ##
+
+[DWM](https://github.com/luthes/miscdocs/README.md#dwm)
+[Salt](https://github.com/luthes/miscdocs/README.md#SaltStack)
+[TerraForm](https://github.com/luthes/miscdocs/README.md#Terraform)
+[AWS CLI](https://github.com/luthes/miscdocs/README.md#AWSCLI)
+
+
+## External Links ##
+
+[SaltStack Docs](https://docs.saltstack.com/en/getstarted)
+[TerraForm Docs](https://wwww.terraform.io/intro)
+
+
 Just some stuff that I want to remember. Shortcuts for stuff, walkthroughs, guides, whatever.
 
 ## DWM ##
@@ -8,7 +22,7 @@ DWM on Ubuntu is fairly easy. Install and compile DWM from source first, then ap
 
 On my laptop at home, I clond into a suckless folder to keep everything in one spot.
 
-git clone git://dwm.suckless.org/ suckless/dwm
+`git clone git://dwm.suckless.org/ suckless/dwm`
 
 
 ### DWM Status ###
@@ -16,16 +30,16 @@ git clone git://dwm.suckless.org/ suckless/dwm
 Clone from Suckless git repo, and and then use make to install.
 
 
-git clone git://dwmstatus.suckless.org/dwmstatus suckless/dwmstatus
+`git clone git://dwmstatus.suckless.org/dwmstatus suckless/dwmstatus`
 
 Again, cloning into suckless folder, make from there.
 
 
-cd ~/suckless/dwmstatus && sudo make clean install
+`cd ~/suckless/dwmstatus && sudo make clean install`
 
 And then to start: 
 
-xsetroot --name "$(dwmstatus) 
+`xsetroot --name "$(dwmstatus)`
 
 
 ### barM.c ###
@@ -34,18 +48,18 @@ barM.c is a better config of DWM Status.
 
 #### Download ####  
 
-wget http://dwm.suckless.org/dwmstatus/barM.c
+`wget http://dwm.suckless.org/dwmstatus/barM.c`
 
 #### Compile ###
 
-gcc -o barM barM.c -O2 -s -lX11
+`gcc -o barM barM.c -O2 -s -lX11`
 
 
 #### Run ####
 
 Same as above, run with
 
-xsetroot -name "$(barM)"
+`xsetroot -name "$(barM)"`
 
 ## Bash Script to start on Boot ##
 
