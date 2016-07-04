@@ -1,10 +1,8 @@
-#### Suckless Walkthroughs  ####
+# Misc Walkthroughs  #
 
-Just a small tutorial to walk myself through setting up DWM and some addons for it.
+Just some stuff that I want to remember. Shortcuts for stuff, walkthroughs, guides, whatever.
 
-test test test
-
-### DWM ###
+## DWM ##
 
 DWM on Ubuntu is fairly easy. Install and compile DWM from source first, then apt-get install. Installing from the Repos after compiling form source sets some config stuff so that I don't have to. Makes life easier.
 
@@ -34,21 +32,21 @@ xsetroot --name "$(dwmstatus)
 
 barM.c is a better config of DWM Status. 
 
-## Download ##  
+#### Download ####  
 
 wget http://dwm.suckless.org/dwmstatus/barM.c
 
-## Compile ##
+#### Compile ###
 
 gcc -o barM barM.c -O2 -s -lX11
 
 
-## Run ##
+#### Run ####
 
 Same as above, run with
 
 xsetroot -name "$(barM)"
 
-### Bash Script to start on Boot ###
+## Bash Script to start on Boot ##
 
 Soon (tm).
