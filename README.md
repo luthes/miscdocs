@@ -10,9 +10,9 @@
 
 [AWS CLI](https://github.com/luthes/miscdocs#aws-cli)
 
-[VIM](https://github.com/luthes/miscdocs#aws-cli)
+[VIM](https://github.com/luthes/miscdocs#vim)
 
-[tmux](https://github.com/luthes/miscdocs#aws-cli)
+[tmux](https://github.com/luthes/miscdocs#tmux)
 
 
 ## External Links ##
@@ -23,6 +23,7 @@
 
 
 Just some stuff that I want to remember. Shortcuts for stuff, walkthroughs, guides, whatever.
+
 
 ## DWM ##
 
@@ -56,9 +57,11 @@ And then to start:
 
 barM.c is a better config of DWM Status. 
 
+
 #### Download ####  
 
 `wget http://dwm.suckless.org/dwmstatus/barM.c`
+
 
 #### Compile ###
 
@@ -78,19 +81,23 @@ Soon (tm).
 
 [top](https://github.com/luthes/miscdocs#quick-reference)
 
+
 ## Salt Stack ##
 
 [top](https://github.com/luthes/miscdocs#quick-reference)
 
+
 ## TerraForm ##
 
 [top](https://github.com/luthes/miscdocs#quick-reference)
+
 
 ## AWS CLI ##
 
 
 
 [top](https://github.com/luthes/miscdocs#quick-reference)
+
 
 ## VIM ##
 
@@ -102,6 +109,7 @@ Additionally, `vimtutor` should be installed with vim. Just run in a terminal.
 
 
 [top](https://github.com/luthes/miscdocs#quick-reference)
+
 
 ## tmux ## 
 
