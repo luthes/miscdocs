@@ -86,3 +86,26 @@ Soon (tm).
 
 
 [top](https://github.com/luthes/miscdocs#misc-walkthroughs)
+
+
+## VIM ##
+
+![VIM Cheat Sheet](https://github.com/luthes/miscdocs/blob/master/vimcheatsheet.png "Cheat Sheet")
+
+
+Additionally, `vimtutor` should be installed with vim. Just run in a terminal.
+
+
+[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
+## tmux ## 
+
+[tmux Primer by Daniel Miessler](https://danielmiessler.com/study/tmux)
+
+Good tutorial, covers the basics, some helpful hotkey changes as well.
+
+
+
+
+
+[top](https://github.com/luthes/miscdocs#misc-walkthroughs)
+
