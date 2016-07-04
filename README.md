@@ -2,13 +2,13 @@
 
 ## Internal Links ##
 
-[DWM](https://github.com/luthes/miscdocs/README.md#dwm)
+[DWM](https://github.com/luthes/miscdocs#dwm)
 
-[Salt](https://github.com/luthes/miscdocs/README.md#SaltStack)
+[Salt](https://github.com/luthes/miscdocs#SaltStack)
 
-[TerraForm](https://github.com/luthes/miscdocs/README.md#Terraform)
+[TerraForm](https://github.com/luthes/miscdocs#Terraform)
 
-[AWS CLI](https://github.com/luthes/miscdocs/README.md#AWSCLI)
+[AWS CLI](https://github.com/luthes/miscdocs#AWS-CLI)
 
 
 ## External Links ##
@@ -65,7 +65,7 @@ Same as above, run with
 
 `xsetroot -name "$(barM)"`
 
-## Bash Script to start on Boot ##
+#### Bash Script to start on Boot ####
 
 Soon (tm).
 
