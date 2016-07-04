@@ -4,11 +4,11 @@
 
 [DWM](https://github.com/luthes/miscdocs#dwm)
 
-[Salt](https://github.com/luthes/miscdocs#SaltStack)
+[Salt](https://github.com/luthes/miscdocs#salt-stack)
 
-[TerraForm](https://github.com/luthes/miscdocs#Terraform)
+[TerraForm](https://github.com/luthes/miscdocs#terraform)
 
-[AWS CLI](https://github.com/luthes/miscdocs#AWS-CLI)
+[AWS CLI](https://github.com/luthes/miscdocs#aws-cli)
 
 
 ## External Links ##
